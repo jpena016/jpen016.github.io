@@ -4,19 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a PhD candidate in the Stajich Lab at University of California, Riverside. My work focuses on the evolution of sexual development in fungi. I would describe myself as an evolutionary developmental/cell biologist with a broad interest in the origin of cell type diversity and functional specialization, the evolution of gene regulatory networks in phyla with disparate body plans, and evolutionary innovations and origins of novel adaptive features. Traditionally, evolutionary biology drew on palaeontology, anatomy, and functional morphology, but has recently come to rely on genomics, cell biology, and developmental biology. These latter fields, while traditionally the realm of biomedical research, are of particular interest to me because they provide a new perspective that promises to reveal a new level of detail about the mechanism of evolution.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Prior to starting my PhD studies, I was a laboratory programs assistant at the Denver Museum of Nature and Science. This position was part of the Museum Programs department which focuses on delivering positive educational experiences to guests through various types of programming. I was primarily involved with Biology Basecamp, a participatory lab within the Expedition Health Exhibit. In this space, guests were able to perform simple experiments where they were introduced to the tools of science and the scientific method. Through this position I participated in science communication and informal education. Alongside my PhD I have been developing my SciComm skills to improve public understanding and awareness of science as well as engagement with science.</p>
 
 <h2>Skills</h2>
 
